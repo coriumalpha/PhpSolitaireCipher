@@ -1,4 +1,4 @@
-# Solitaire Decript
+# PHP Solitaire Decript
 Solitaire Cipher's PHP Implementation
 
 Fill `$deckUnparsed` with your 54 card ordered deck, spacing each element:
