@@ -1,4 +1,7 @@
 # PHP Solitaire Decript
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dd8d4635e8374705a492a982052b15d2)](https://app.codacy.com/app/coriumalpha/PhpSolitaireCipher?utm_source=github.com&utm_medium=referral&utm_content=coriumalpha/PhpSolitaireCipher&utm_campaign=Badge_Grade_Dashboard)
+
 Solitaire Cipher's PHP Implementation
 
 Fill `$deckUnparsed` with your 54 card ordered deck, spacing each element:
